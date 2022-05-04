@@ -1,16 +1,49 @@
-### Hi there 👋
 
-<!--
-**yorbimv/yorbimv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
 -->
+  
+<p>
+  <a href="https://twitter.com/">
+    <img align="right" alt="Yorbi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img align="right" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/yorbimv">
+    <img align="right" alt="Jorge Meneses Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://t.me/yorbimv">
+    <img align="right" alt="Jorge Meneses Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
+ 
+</p>
+
+
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+
+***I'm Jorge Meneses, but you know me better as Yorbi.***
+
+
+- 👨‍💻 A Front Developer & Open Source enthusiast.
+- 👨‍🎓 Studying the career of Bachelor of Technologies and Information Systems
+- 🚧 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- 🇲🇽 I`m from Mexico city
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I´m currently learn Web development & Python with Flask 
+
+____
+
+
+### Where you can find me
+
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/yorbimv)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yorbimv/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yorbimv1@gmail.com)
+
+____
+
+<p>
+  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorbimv&show_icons=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yorbimv&show_icons=true&hide_border=true" />
+</p>
