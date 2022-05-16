@@ -33,6 +33,8 @@ You can use the website to generate badges: https://shields.io/
 
 ____
 
+### Code Stats
+
 <!--START_SECTION:waka-->
 
 
