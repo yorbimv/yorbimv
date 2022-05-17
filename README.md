@@ -31,14 +31,12 @@ You can use the website to generate badges: https://shields.io/
 - 🇲🇽 I`m from Mexico city
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I´m currently learn Web development & Python with Flask 
 
-____
 
-### Code Stats
 
 <br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<br>
+
 
 ---
 
