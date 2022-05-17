@@ -34,6 +34,12 @@ You can use the website to generate badges: https://shields.io/
 
 
 <br>
+
+---
+### Code stats 
+
+Wait 24 hrs for see....  03:31am 15-05-22
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
