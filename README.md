@@ -23,9 +23,9 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+### Hi there ✌🏻
 
-***I'm Jorge Meneses, but you know me better as Yorbi.***
+***I'm Jorge Meneses, but you know me better as yorbimv.***
 
 
 - 👨‍💻 A Front Developer & Open Source enthusiast.
