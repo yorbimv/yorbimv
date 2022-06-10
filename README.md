@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 <br>
 
 ---
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I´m currently learn Web development 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I´m currently learn: 
 
 
 <!--START_SECTION:waka-->
