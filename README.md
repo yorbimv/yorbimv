@@ -7,9 +7,9 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://twitter.com/">
     <img align="right" alt="Yorbi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <!-- <a href="https://www.linkedin.com/in/">
     <img align="right" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+  </a> -->
   <a href="https://github.com/yorbimv">
     <img align="right" alt="Jorge Meneses Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
@@ -57,7 +57,7 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 ### Where you can find me
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/yorbimv)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
+<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]() -->
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yorbimv/)
 <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yorbimv1@gmail.com)
