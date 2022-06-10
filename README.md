@@ -29,14 +29,12 @@ You can use the website to generate badges: https://shields.io/
 - 👨‍🎓 Studying the career of Bachelor of Technologies and Information Systems
 - 🚧 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - 🇲🇽 I`m from Mexico city
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I´m currently learn Web development & Python with Flask 
-
 
 
 <br>
 
 ---
-### Current statistics
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I´m currently learn Web development 
 
 
 <!--START_SECTION:waka-->
