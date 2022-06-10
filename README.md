@@ -13,9 +13,13 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://t.me/yorbimv">
     <img align="right" alt="Jorge Meneses Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
- <!-- <a href="https://www.linkedin.com/in/">
+
+
+ <!--
+  <a href="https://www.linkedin.com/in/">
     <img align="right" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a> -->
+  </a>
+   -->
 </p>
 
 
