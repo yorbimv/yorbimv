@@ -4,7 +4,7 @@ You can use the website to generate badges: https://shields.io/
 -->
   
 <p>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/Sr_answer">
     <img align="right" alt="Yorbi Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://github.com/yorbimv">
@@ -13,7 +13,9 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://t.me/yorbimv">
     <img align="right" alt="Jorge Meneses Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
-
+<a href="https://jorgemeneses.herokuapp.com/">
+    <img align="right" alt="Sitio Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  </a>
 
  <!--
   <a href="https://www.linkedin.com/in/">
