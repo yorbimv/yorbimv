@@ -45,12 +45,11 @@ You can use the website to generate badges: https://shields.io/
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         43 mins         ████████▓░░░░░░░░░░░░░░░░   35.01 %
-Markdown     24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-Python       24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.80 %
-HTML         14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-ERB          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Bash         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+ERB          1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
+Markdown     1 hr 13 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
+Ruby         1 hr 7 mins     █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+Bash         44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+Other        30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
 ```
 
 <!--END_SECTION:waka-->
