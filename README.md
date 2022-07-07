@@ -45,11 +45,8 @@ You can use the website to generate badges: https://shields.io/
 <!--START_SECTION:waka-->
 
 ```text
-Go      6 hrs 21 mins   ████████████████████░░░░░   80.07 %
-Bash    1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-JSON    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-VimL    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Bash   50 mins         ██████████████▒░░░░░░░░░░   57.27 %
+Go     37 mins         ██████████▓░░░░░░░░░░░░░░   42.73 %
 ```
 
 <!--END_SECTION:waka-->
